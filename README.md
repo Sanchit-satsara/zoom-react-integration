@@ -1,4 +1,4 @@
-# ZOOM WebSdk with React v1.7.8
+# ZOOM WebSdk v1.7.8 with React 
 
 
 ## You can Join Meetings using the Meeting number and Password for the same.
