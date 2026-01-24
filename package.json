@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@zoomus/websdk": "^1.7.8",
     "jquery": "^3.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
